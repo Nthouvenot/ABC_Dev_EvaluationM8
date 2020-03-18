@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    border: 1px solid black;
+    border-color: lightblue;
+    background-color: #e5e5e5;
+}
+
+.lightgray {
+    background-color: lightgray;
+}

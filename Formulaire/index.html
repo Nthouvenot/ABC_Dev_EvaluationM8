@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta http-equiv="content-type" content="text/html">
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" media="all" />
+    <title>Formulaire</title>
+</head>
+<body>
+    <div id="page">
+        <form>
+            <h1>sign in</h1>
+            <hr />
+            <p>
+                <label for="uname">User Name :</label>
+                <input type="text" id="uname" name="uname" placeholder="johnDoe"/>
+            </p>
+            <p>
+                <label for="password">Password :</label>
+                <input type="password" id="password" placeholder="*****"/>
+            </p>
+            <h1>Group :</h1>
+            <div id="group">
+                <p>
+                    <input type="radio" id="abc" name="dev" value="abc"/>
+                    <label for="abc">ABC DEV</label>
+                </p>
+                <p>
+                    <input type="radio" id="dwwm" name="dev" value="dwwm"/>
+                    <label for="dwwm">DWWM</label>
+                </p>
+                <p>
+                    <input type="radio" id="cda" name="dev" value="cda"/>
+                    <label for="cda">CDA</label>
+                </p>
+            </div>
+                <p id="fSign">
+                    <input type="button" value="SIGN IN" id="signIn" name="signIn" />
+                    <a href="#fpassword">Forgot Password?</a>
+                </p>
+            <hr />
+            <h1>New User</h1>
+            <p id="sign">
+                <input type="button" value="SIGN UP" id="signUp" name="signUp" />
+            </p>
+        </form>
+    </div>
+</body>
+</html>

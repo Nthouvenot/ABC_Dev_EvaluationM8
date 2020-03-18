@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<SystemeSolaire>
+  <Mercure>
+    <diametre unit="km">4879</diametre>
+    <circonference unit="km">15324.69</circonference>
+    <distanceMoyenneSoleil unit="Mkm">57.8</distanceMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">91.8</distanceMoyenneTerre>
+    <satellites>0</satellites>
+    <temperatureMoyenne unit="°c">167</temperatureMoyenne>
+    <masse unit="10^24/kg">0.33</masse>
+    <periodeRevolution unit="an">0.24</periodeRevolution>
+    <rotation format="j-h-min-s">58-15-38-0</rotation>
+    <vitesse unit="km/s">47.78</vitesse>
+    <attractionGravitationelle unit="N/kg">3.78</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">5.42</masseVolumique>
+    <volume unit="10^11 km^3">0.6077487</volume>
+  </Mercure>
+  <Venus>
+    <diametre unit="km">12104</diametre>
+    <circonference unit="km">38019.55</circonference>
+    <diametreMoyenneSoleil unit="Mkm">108.2</diametreMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">41.4</distanceMoyenneTerre>
+    <satellites>0</satellites>
+    <temperatureMoyenne unit="°c">465</temperatureMoyenne>
+    <masse unit="10^24/kg">4.87</masse>
+    <periodeRevolution unit="an">0.615</periodeRevolution>
+    <rotation format="j-h-min-s">243-0-0-0</rotation>
+    <vitesse unit="km/s">35.02</vitesse>
+    <attractionGravitationelle unit="N/kg">8.6</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">5.24</masseVolumique>
+    <volume unit="10^11 km^3">9.2804721</volume>
+  </Venus>
+  <Terre>
+    <diametre unit="km">12756</diametre>
+    <circonference unit="km">40024</circonference>
+    <diametreMoyenneSoleil unit="Mkm">149.6</diametreMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">0</distanceMoyenneTerre>
+    <satellites>1</satellites>
+    <temperatureMoyenne unit="°c">15</temperatureMoyenne>
+    <masse unit="10^24/kg">5.9736</masse>
+    <periodeRevolution unit="an">1</periodeRevolution>
+    <rotation format="j-h-min-s">0-23-56-4</rotation>
+    <vitesse unit="km/s">29.78</vitesse>
+    <attractionGravitationelle unit="N/kg">9.81</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">5.45</masseVolumique>
+    <volume unit="10^11 km^3">10.8321</volume>
+  </Terre>
+  <Mars>
+    <diametre unit="km">6794</diametre>
+    <circonference unit="km">21318.84</circonference>
+    <distanceMoyenneSoleil unit="Mkm">227.9</distanceMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">77.9</distanceMoyenneTerre>
+    <satellites>2</satellites>
+    <temperatureMoyenne unit="°c">-65</temperatureMoyenne>
+    <masse unit="10^24/kg">0.642</masse>
+    <periodeRevolution unit="an">1.88</periodeRevolution>
+    <rotation format="j-h-min-s">0-24-37-23</rotation>
+    <vitesse unit="km/s">24.11</vitesse>
+    <attractionGravitationelle unit="N/kg">3.72</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">3.93</masseVolumique>
+    <volume unit="10^11 km^3">1.6362143</volume>
+  </Mars>
+  <Jupiter>
+    <diametre unit="km">142984</diametre>
+    <circonference unit="km">449197.48</circonference>
+    <distanceMoyenneSoleil unit="Mkm">778.6</distanceMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">628.7</distanceMoyenneTerre>
+    <satellites>63</satellites>
+    <temperatureMoyenne unit="°c">-54</temperatureMoyenne>
+    <masse unit="10^24/kg">1899</masse>
+    <periodeRevolution unit="an">11.86</periodeRevolution>
+    <rotation format="j-h-min-s">0-9-50-0</rotation>
+    <vitesse unit="km/s">13.07</vitesse>
+    <attractionGravitationelle unit="N/kg">24.892</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">1.32</masseVolumique>
+    <volume unit="10^11 km^3">15305.97</volume>
+  </Jupiter>
+  <Saturne>
+    <diametre unit="km">120536</diametre>
+    <circonference unit="km">378675.01</circonference>
+    <distanceMoyenneSoleil unit="Mkm">1433.50</distanceMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">1280.4</distanceMoyenneTerre>
+    <satellites>47</satellites>
+    <temperatureMoyenne unit="°c">-150</temperatureMoyenne>
+    <masse unit="10^24/kg">568</masse>
+    <periodeRevolution unit="an">29.46</periodeRevolution>
+    <rotation format="j-h-min-s">0-11-30-0</rotation>
+    <vitesse unit="km/s">9.66</vitesse>
+    <attractionGravitationelle unit="N/kg">10.584</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">0.68</masseVolumique>
+    <volume unit="10^11 km^3">9169.57</volume>
+  </Saturne>
+  <Uranus>
+    <diametre unit="km">51118</diametre>
+    <circonference unit="km">160591.93</circonference>
+    <distanceMoyenneSoleil unit="Mkm">2872.50</distanceMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">2725.4</distanceMoyenneTerre>
+    <satellites>27</satellites>
+    <temperatureMoyenne unit="°c">-210</temperatureMoyenne>
+    <masse unit="10^24/kg">86.8</masse>
+    <periodeRevolution unit="an">84</periodeRevolution>
+    <rotation format="j-h-min-s">0-17-24-0</rotation>
+    <vitesse unit="km/s">6.81</vitesse>
+    <attractionGravitationelle unit="N/kg">8.624</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">1.27</masseVolumique>
+    <volume unit="10^11 km^3">699.39123</volume>
+  </Uranus>
+  <Neptune>
+    <diametre unit="km">49528</diametre>
+    <circonference unit="km">156596.80</circonference>
+    <distanceMoyenneSoleil unit="Mkm">4495.10</distanceMoyenneSoleil>
+    <distanceMoyenneTerre unit="km">4346.90</distanceMoyenneTerre>
+    <satellites>17</satellites>
+    <temperatureMoyenne unit="°c">-220</temperatureMoyenne>
+    <masse unit="10^24/kg">102</masse>
+    <periodeRevolution unit="an">164.79</periodeRevolution>
+    <rotation format="j-h-min-s">0-16-3-0</rotation>
+    <vitesse unit="km/s">5.43</vitesse>
+    <attractionGravitationelle unit="N/kg">11.24</attractionGravitationelle>
+    <masseVolumique unit="kg/dm^3">1.63</masseVolumique>
+    <volume unit="10^11 km^3">636.1374964</volume>
+  </Neptune>
+</SystemeSolaire>

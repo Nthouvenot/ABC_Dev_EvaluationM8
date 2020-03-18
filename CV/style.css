@@ -1,0 +1,14 @@
+header {
+    height: 100px;
+    margin: 0px;
+    background-color: darkgray;
+}
+
+header h1 {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+header p {
+    position: absolute;
+}

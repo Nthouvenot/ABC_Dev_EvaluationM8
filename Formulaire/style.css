@@ -1,0 +1,88 @@
+/**************COMMON******************/
+
+#page
+{
+    position: relative;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+h1 {
+    font-size: 1em;
+    margin-bottom: 2px;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+}
+
+hr {
+    height: 1px;
+    margin: 0px;
+    background-color: lightblue;
+    color: lightblue;
+}
+
+/*******************************************/
+
+#page > h1 {
+    margin-bottom: 0px;
+}
+
+/*******************************************/
+
+#uname, #password {
+    display: block;
+    width: 80%;
+    padding:  4px;
+}
+/****************BUTTON STYLE***************/
+
+#signIn, #signUp {
+    color: white;
+    background-color: lightblue;
+    font-size: 1.2em;
+    padding: 5px;
+    border-color: lightblue;
+    border-radius: 5px;
+}
+
+#signIn {
+    margin-bottom: 5px;
+}
+
+/*******************************************/
+
+#group {
+    width: 45%;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
+#group label, #group input {
+    display: inline-block;
+    padding: 4px;
+    
+}
+
+#group p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#fSign{
+    margin-bottom: 5px;
+}
+
+/********************NEW USER*******************/
+
+#sign {
+    margin-top: 0px;
+}
+
